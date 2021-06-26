@@ -1,4 +1,8 @@
 # Election_Analysis
+## Overview
+I am assisting a Colorado Board of Election employee Tom in an electing audit of the tabulated result for U.S congressional Precinct in Colorado. I am tasked with reporting the total number of votes cast.
+
+
 Use your repository README to write your analysis of Deliverables 1 and 2. The analysis should contain the following:
 
 Overview of Election Audit: Explain the purpose of this election audit analysis.
