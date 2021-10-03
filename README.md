@@ -12,7 +12,7 @@ I am assisting a Colorado Board of Election employee Tom in an electing audit of
 
 ## Resources
 - Data Source: election_results.csv
-- Software: Python, Visual Studio Code,
+- Software: Python, Visual Studio Code
 
 ## Project Summary
 The analysis of the election show that:
