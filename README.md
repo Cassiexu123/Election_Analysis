@@ -1,17 +1,18 @@
 # Election_Analysis
 
-## Project Overview
+## Overview
 I am assisting a Colorado Board of Election employee Tom in an electing audit of the tabulated result for U.S congressional Precinct in Colorado. I am tasked with reporting the total number of votes cast.
 
-1.Calculate the total number of votes cast.
-2.Get a complete list of candidates who received votes.
-3.Calculate the total number of votes each candidate received.
-4.Calculate the percentage of votes each candidate won.
-5.Determine the winner of the election based on popular vote.
+## Goal
+- Calculate the total number of votes cast.
+- Get a complete list of candidates who received votes.
+- Calculate the total number of votes each candidate received.
+- Calculate the percentage of votes each candidate won.
+- Determine the winner of the election based on popular vote.
 
 ## Resources
 - Data Source: election_results.csv
-- software: Python, Visual Studio Code,
+- Software: Python, Visual Studio Code,
 
 ## Project Summary
 The analysis of the election show that:
@@ -29,9 +30,9 @@ The analysis of the election show that:
 
 ## Challenge Overview
 The election commission requested some additional data to complete the audit:
-1.The vote turnout for each county.
-2.The percentage of votes from each county out of the total count.
-3.The county with the highest turnout
+- The vote turnout for each county.
+- The percentage of votes from each county out of the total count.
+- The county with the highest turnout
 
 ## Challenge Summary
 The county analysis of the election show that:
